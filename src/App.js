@@ -7,7 +7,6 @@ const App = () =>{
     return(
         <>
            <To_do_list/>
-           {/* <Note_App/> */}
         </>
     )
 }
